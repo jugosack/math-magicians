@@ -6,7 +6,7 @@
   <img src="https://freepngimg.com/thumb/calculator/7-calculator-png-image.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Calculator</b></h3>
+  <h3><b>Math Magicians</b></h3>
 
 </div>
 
