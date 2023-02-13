@@ -103,7 +103,7 @@ Fork this project
 Clone this repository to your desired folder:
 
 - cd foldername
-- git clone git@github.com:jugosack/Math-Magicians.git
+- git clone git@github.com:jugosack/math-magicians.git
 
 ### Install
 
