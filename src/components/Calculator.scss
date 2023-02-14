@@ -1,3 +1,64 @@
-h1{
-    color: red;
+.space{
+    margin-top:50px;
 }
+  .container{
+    margin:auto;
+    width: 30%;
+    height:70%;
+    padding: 10px;
+    border: 1px solid #f2f2f2;
+    -webkit-box-shadow: 1px 1px 4px 0px rgba(176,176,176,1);
+       -moz-box-shadow: 1px 1px 4px 0px rgba(176,176,176,1);
+            box-shadow: 1px 1px 4px 0px rgba(176,176,176,1);
+    background-color: #F8F8F8;
+  }
+  .result1{
+   height:40px;
+    background-color: gray;
+  /*   padding: 10px; */
+    color: white;
+    text-align: right;
+    font-size: 20px;;
+   
+    
+  } 
+  table{
+    width: 100%;
+  }
+  td{
+    width: 25%;
+  }
+  .result{
+    font-size: 24px;
+    padding: 16px 5px;
+    font-weight: 700;
+    text-align: right;
+    width: 96%;
+    border: none;
+    background-color: #F8F8F8;
+  }
+   .global{
+    // padding: 15px;
+    font-weight: bold;
+    font-size: 16px;
+    border: none;
+    border-radius: 3px;
+    background-color: #F2F2F2;
+    width: 100%;
+    height: 70px;
+  }
+  /*the global class padding reset for first-row class button*/
+  .first-row{
+   padding: 7px;
+  }
+  .plus{
+    height: 105px;
+  }
+  .grey{
+    background-color: #F2F2F2;
+  }
+
+  #plus, #slash, #ex, #minus, #equal{
+    background-color:bisque;
+  }
+  
