@@ -1,0 +1,12 @@
+.home {
+    padding: 5rem;
+
+  }
+  h1{
+    text-align: start;
+  }
+p{
+    text-align: justify;
+  text-justify: inter-word;
+    
+}  
