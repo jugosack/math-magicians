@@ -1,0 +1,10 @@
+.quote {
+  height: 60vh;
+  margin: 0;
+  padding: 4rem;
+  display: flex;
+  text-align: justify;
+  align-items: center;
+  font-size: 36px;
+  font-weight: normal !important;
+}

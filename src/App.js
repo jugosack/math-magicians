@@ -1,11 +1,23 @@
 import './App.css';
-import Calculator from './components/Calculator';
+// eslint-disable-next-line import/no-extraneous-dependencies
+import { Route, Routes } from 'react-router-dom';
+import Navbar from './Navbar';
+import Home from './pages/Homepage';
+import CalculatorPage from './pages/Calculatorpage';
+import Quote from './pages/Quotepage';
 
 function App() {
   return (
-    <div className="App">
-      <Calculator />
-    </div>
+    <>
+      <Navbar />
+      <div className="container_1">
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/calculatorpage" element={<CalculatorPage />} />
+          <Route path="/qoutepage" element={<Quote />} />
+        </Routes>
+      </div>
+    </>
   );
 }
 
