@@ -83,7 +83,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Comming Soon]()
+- [Math Magicians](https://math-magicians-6svd.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
