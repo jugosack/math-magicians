@@ -31,7 +31,9 @@ describe('Rendering Buttons in Calculator', () => {
     const { getAllByDisplayValue } = render(<Calculator />);
     getAllByDisplayValue('AC');
     getAllByDisplayValue('+');
-
+    getAllByDisplayValue('-');
+    getAllByDisplayValue('x');
+    
     /// /Add Test By John ////
   });
 });
