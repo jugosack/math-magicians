@@ -38,7 +38,7 @@ describe('Rendering Buttons in Calculator', () => {
     getAllByDisplayValue('2');
     getAllByDisplayValue('3');
     getAllByDisplayValue('4');
-    
+
     /// /Add Test By John ////
   });
 });
