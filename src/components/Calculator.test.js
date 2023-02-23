@@ -33,6 +33,10 @@ describe('Rendering Buttons in Calculator', () => {
     getAllByDisplayValue('+');
     getAllByDisplayValue('-');
     getAllByDisplayValue('x');
+    getAllByDisplayValue('1');
+    getAllByDisplayValue('2');
+    getAllByDisplayValue('3');
+    getAllByDisplayValue('4');
     
     /// /Add Test By John ////
   });
