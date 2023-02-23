@@ -10,8 +10,8 @@ describe('snapshot testing', () => {
   });
 });
 
-describe('Home nav item', () => {
-  it('testing home', () => {
+describe('Calculator item', () => {
+  it('testing item', () => {
     render(<Calculator />);
     const ele = screen.getByTestId('calculatorTest');
     expect(ele).toBeInTheDocument();
