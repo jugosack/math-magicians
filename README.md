@@ -83,7 +83,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Comming Soon](https://github.com/jugosack/math-magicians)
+- [Comming Soon]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
