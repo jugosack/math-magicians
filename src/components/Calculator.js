@@ -24,7 +24,7 @@ function Calculator() {
   return (
     <>
       <div className="space" />
-      <div className="container">
+      <div className="container" data-testid="calculatorTest">
 
         <table>
           <tr className="result1">
