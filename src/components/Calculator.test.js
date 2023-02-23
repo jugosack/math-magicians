@@ -22,7 +22,8 @@ describe('Calculator item', () => {
     const td1 = screen.getByDisplayValue('+/-');
     expect(td1).toHaveDisplayValue('+/-');
 
-    /// / Add additional Test ///
+    const td2 = screen.getByDisplayValue('+');
+    expect(td2).toHaveDisplayValue('+');
   });
 });
 
